@@ -1,6 +1,6 @@
 # PURSUIT MODE [STANDALONE]
 
-![]()
+![](https://cdn.discordapp.com/attachments/1295245827039563866/1317356347234189362/THUMB.png?ex=675e6334&is=675d11b4&hm=51f7e7521572a73a3ada459251ef912b28afd1edcf4f0aff6a473522b2e9cbe0&)
 
 ## DESCRIPTION
 
