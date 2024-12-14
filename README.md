@@ -66,7 +66,7 @@
 
 ## PREVIEW
 
-* [YouTube]() (Coming soon...)
+* [YouTube](https://youtu.be/SDDCsqalixM)
 
 ## DEPENDENCIES
 
