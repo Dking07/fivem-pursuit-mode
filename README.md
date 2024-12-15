@@ -62,7 +62,7 @@
 ## HOW TO USE
 
 ### Configurable classes, commands and binds, all explained in config.lua.
-![](https://cdn.discordapp.com/attachments/1295245827039563866/1317016683545759784/config_half.png?ex=675d26de&is=675bd55e&hm=650854059a45da442b7d5c8b4f74b12c296a0af9de97ece209139acd691d34a4&)
+![](https://cdn.discordapp.com/attachments/1295245827039563866/1317728471467687946/config_half.png?ex=675fbdc5&is=675e6c45&hm=88454aca688c87adbf378b0e858fd027709e1b213f08a43fa470c5f0179bacd4&)
 
 ## PREVIEW
 
