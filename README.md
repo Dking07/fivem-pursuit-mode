@@ -49,9 +49,9 @@
 - Comprehensive vehicle state tracking
 - Persistent UI position saving
 
-## DOWNLOAD
+## GET NOW
 
-* [TEBEX](https://dking.tebex.io/package/6582383)
+* [DOWNLOAD](https://dking.tebex.io/package/6582383)
 
 ## HOW TO INSTALL
 
