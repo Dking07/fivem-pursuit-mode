@@ -1,6 +1,6 @@
 # PURSUIT MODE [STANDALONE]
 
-![](https://cdn.discordapp.com/attachments/1295245827039563866/1317356347234189362/THUMB.png?ex=676e3534&is=676ce3b4&hm=7ab3ab3121f83cf789d8d79bab89972c49b56a563e343dbf054854629dab9ab1&)
+![](https://cdn.discordapp.com/attachments/1295245827039563866/1317356347234189362/THUMB.png?ex=677b6434&is=677a12b4&hm=1a896d8f790c1f81631c6ed7cbca9fb0f3aa3fa675b6714aea57b120c0721890&)
 
 ## DESCRIPTION
 
@@ -62,7 +62,7 @@
 ## HOW TO USE
 
 ### Configurable classes, commands and binds, all explained in config.lua.
-![](https://cdn.discordapp.com/attachments/1295245827039563866/1317728471467687946/config_half.png?ex=676e3e45&is=676cecc5&hm=32448af667ad9dfa9872c3bf82170c578b952629b1958e682356e6342fb97729&)
+![](https://cdn.discordapp.com/attachments/1295245827039563866/1325391608434397275/Config.png?ex=677b9ea0&is=677a4d20&hm=10b46648ab5baf1eede38c72c80bad702b3adeddfb373b2e4b74f24ced8108a4&)
 
 ## PREVIEW
 
@@ -76,6 +76,12 @@
 
 ### [Dking Warehouse](https://discord.gg/Rw6vjcXspG)
 
+## CHANGELOGS
+
+### 1.1
+
+* Added export to get current class.
+
 # COPYRIGHT
 
-## BY [DKING](https://github.com/Dking07) 2024 ©
+## BY [DKING](https://github.com/Dking07) 2025 ©
