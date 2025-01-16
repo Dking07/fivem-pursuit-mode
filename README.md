@@ -1,6 +1,6 @@
 # PURSUIT MODE [STANDALONE]
 
-![](https://cdn.discordapp.com/attachments/1295245827039563866/1317356347234189362/THUMB.png?ex=677d5e74&is=677c0cf4&hm=5199882ca3f39b2409b901238a6d1df8b9b16f3f1f38c9e0199f8673329536b9&)
+![](https://media.discordapp.net/attachments/1318635424633327677/1318635425212010567/THUMB.png?ex=6789eeb0&is=67889d30&hm=6e041442769cd52cd06485fd3a03e2ea778d905cefa24512af53f19c6a6090d0&=&format=webp&quality=lossless&width=550&height=309)
 
 ## DESCRIPTION
 
@@ -62,7 +62,7 @@
 ## HOW TO USE
 
 ### Configurable classes, commands and binds, all explained in config.lua.
-![](https://cdn.discordapp.com/attachments/1295245827039563866/1325391608434397275/Config.png?ex=677d98e0&is=677c4760&hm=852719f2a07abda3eff664939ae8700aae5895efe7cef17451d00a3fb48ac901&)
+![](https://cdn.discordapp.com/attachments/1295245827039563866/1325391608434397275/Config.png?ex=678a1f20&is=6788cda0&hm=65fd718ecd117f01a33dcd9f7542ebf356b8d418ce457dc295f87bb6d3319397&)
 
 ## PREVIEW
 
