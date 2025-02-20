@@ -1,7 +1,7 @@
 # PURSUIT MODE [STANDALONE]
 
 <div align="center">
-<img src="https://github.com/Dking07/fivem-backup/blob/main/My%20Scripts/Pursuit%20Mode/THUMB.png" width="700px" />
+<img src="https://github.com/Dking07/fivem-pursuit-mode/blob/main/THUMB.png" width="700px" />
 </div>
 
 ## DESCRIPTION
@@ -65,7 +65,7 @@
 
 ### Configurable classes, commands and binds, all explained in config.lua.
 <div align="left">
-<img src="https://github.com/Dking07/fivem-backup/blob/main/My%20Scripts/Pursuit%20Mode/config.png" width="250px" />
+<img src="https://github.com/Dking07/fivem-pursuit-mode/blob/main/config.png" width="250px" />
 </div>
 
 ## PREVIEW
