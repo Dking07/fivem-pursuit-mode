@@ -86,6 +86,31 @@
 
 * Added export to get current class.
 
+### 1.2
+
+#### New Features
+- **Livery System Integration**
+  - Added dynamic livery changes based on vehicle class
+  - Vehicles now visually display their current performance class through liveries
+  - Added support for both standard liveries and mod-based liveries (modType 48)
+  - Vehicle-specific livery overrides available in configuration
+
+#### Improvements
+- **Vehicle Name Recognition**
+  - Fixed issue where vehicles with special characters in names weren't being recognized
+  - Improved vehicle name handling for better compatibility with custom vehicles
+  - Added debug command to check vehicle names (`/checkvehicle`)
+
+#### Configuration Updates
+- Added `Config.LiveryClass` for class-based livery settings
+- Added `Config.VehicleLiveryOverrides` for vehicle-specific livery configurations
+- Added `Config.Pursuit.checkvehiclename` for debugging vehicle names
+
+#### Bug Fixes
+- Fixed issue where vehicles with special characters in names weren't recognized by the system
+- Fixed handling application for certain vehicle types
+- Improved vehicle exit handling to properly restore original vehicle state
+
 # COPYRIGHT
 
 ## BY [DKING](https://github.com/Dking07) 2025 ©
