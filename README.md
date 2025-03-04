@@ -94,6 +94,7 @@
   - Vehicles now visually display their current performance class through liveries
   - Added support for both standard liveries and mod-based liveries (modType 48)
   - Vehicle-specific livery overrides available in configuration
+  (Livery is just an example, you can use any modkit)
 
 #### Improvements
 - **Vehicle Name Recognition**
