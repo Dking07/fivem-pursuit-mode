@@ -76,9 +76,9 @@
 
 * [ox_lib](https://github.com/overextended/ox_lib) (Optional, used only for notifications)
 
-## Discord
+## SUPPORT
 
-### [Dking Warehouse](https://discord.gg/Rw6vjcXspG)
+### [Discord](https://discord.gg/Rw6vjcXspG)
 
 ## CHANGELOGS
 
