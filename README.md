@@ -118,6 +118,10 @@
 - ##### **Speed ​​check**
   - Added `Config.Pursuit.Speed` option to limit the speed at which class switching will be allowed.
 
+### 1.2.3
+
+  * Fixed errors that occurred when ox_lib was missing.
+
 # COPYRIGHT
 
 ## BY [DKING](https://github.com/Dking07) 2025 ©
