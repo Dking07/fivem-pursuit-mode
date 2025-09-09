@@ -122,6 +122,12 @@
 
   * Fixed errors that occurred when ox_lib was missing.
 
+### 1.2.4
+
+  * Added translation system;
+  * Reorganized command and notification configurations;
+  * Moved Config.HandlingPresets to a separate file.
+
 # COPYRIGHT
 
 ## BY [DKING](https://github.com/Dking07) 2025 ©
