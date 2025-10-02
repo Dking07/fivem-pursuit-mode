@@ -134,6 +134,7 @@
     * fMass
     * fDriveBiasFront
     * fBrakeBiasFront
+    * fHandBrakeForce
     * fCamberStiffnesss
     * fTractionBiasFront
     * fSuspensionForce
@@ -144,7 +145,6 @@
     * fSuspensionRaise
     * fSuspensionBiasFront
     * fAntiRollBarForce
-    * fHandBrakeForce
     * fAntiRollBarBiasFront
     * fRollCentreHeightFront
     * fRollCentreHeightRear
