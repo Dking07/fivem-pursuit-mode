@@ -63,10 +63,9 @@
 
 ## HOW TO USE
 
-### Configurable classes, commands and binds, all explained in config.lua.
-<div align="left">
-<img src="https://github.com/Dking07/fivem-pursuit-mode/blob/main/config.png" width="250px" />
-</div>
+### Definitions and configurations of classes, commands, binds, etc., all explained in the config files.
+
+* [Configs](https://github.com/Dking07/fivem-pursuit-mode/tree/main/config)
 
 ## PREVIEW
 
@@ -127,6 +126,34 @@
   * Added translation system;
   * Reorganized command and notification configurations;
   * Moved Config.HandlingPresets to a separate file.
+
+### 1.2.5
+
+  * Config.Notifys moved to a separate file;
+  * Reworked the handling application logic and added new parameters:
+    * fMass
+    * fDriveBiasFront
+    * fBrakeBiasFront
+    * fCamberStiffnesss
+    * fTractionBiasFront
+    * fSuspensionForce
+    * fSuspensionCompDamp
+    * fSuspensionReboundDamp
+    * fSuspensionUpperLimit
+    * fSuspensionLowerLimit
+    * fSuspensionRaise
+    * fSuspensionBiasFront
+    * fAntiRollBarForce
+    * fHandBrakeForce
+    * fAntiRollBarBiasFront
+    * fRollCentreHeightFront
+    * fRollCentreHeightRear
+    * strHandlingFlags
+    * fBackEndPopUpCarImpulseMult
+    * fBackEndPopUpBuildingImpulseMult
+    * fBackEndPopUpMaxDeltaSpeed
+    * strAdvancedFlags
+  * UI Improvements.
 
 # COPYRIGHT
 
