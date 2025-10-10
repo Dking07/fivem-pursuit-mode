@@ -155,6 +155,10 @@
     * strAdvancedFlags
   * UI Improvements.
 
+### 1.2.6
+
+  * Added option to show the current class of nearby vehicles (`Config.ViewClass` and `Config.Commands.viewClass`).
+
 # COPYRIGHT
 
 ## BY [DKING](https://github.com/Dking07) 2025 ©
