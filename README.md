@@ -1,7 +1,7 @@
 # PURSUIT MODE [STANDALONE]
 
 <div align="center">
-<img src="https://github.com/Dking07/fivem-pursuit-mode/blob/main/THUMB.png" width="700px" />
+<img src="./images/thumb.png" alt="thumb" width="700px" />
 </div>
 
 ## DESCRIPTION
@@ -63,9 +63,7 @@
 
 ## HOW TO USE
 
-### Definitions and configurations of classes, commands, binds, etc., all explained in the config files.
-
-* [Configs](https://github.com/Dking07/fivem-pursuit-mode/tree/main/config)
+### Definitions and configurations of classes, commands, binds, etc., all explained in the [config](./images/config.png) files.
 
 ## PREVIEW
 
@@ -158,6 +156,10 @@
 ### 1.2.6
 
   * Added option to show the current class of nearby vehicles (`Config.ViewClass` and `Config.Commands.viewClass`).
+
+### 1.2.7
+
+  * Fixes in display and class switching.
 
 # COPYRIGHT
 
