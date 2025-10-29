@@ -1,7 +1,7 @@
 # PURSUIT MODE [STANDALONE]
 
 <div align="center">
-<img src="./images/thumb.png" alt="thumb" width="700px" />
+<img src="https://github.com/user-attachments/assets/39a30393-e5bc-4e7c-a5ac-bfac5c231d93" alt="thumb" width="700px" />
 </div>
 
 ## DESCRIPTION
@@ -57,13 +57,13 @@
 
 ## HOW TO INSTALL
 
-* [Download](https://keymaster.fivem.net/asset-grants) script;
+* [Download](https://portal.cfx.re/assets/granted-assets) script;
 * Place it in the resources folder;
 * Add 'ensure dking_pursuitmode' (without quotes) to server.cfg.
 
 ## HOW TO USE
 
-### Definitions and configurations of classes, commands, binds, etc., all explained in the [config](./images/config.png) files.
+### Definitions and configurations of classes, commands, binds, etc., all explained in the [config](https://github.com/user-attachments/assets/61d8cd55-ffbe-4c4d-9562-c5f42b4c8fdc) files.
 
 ## PREVIEW
 
@@ -159,7 +159,9 @@
 
 ### 1.2.7
 
-  * Fixes in display and class switching.
+  * Improvements in class display;
+  * Improvements in class saving by vehicle;
+  * Added the possibility to decrease the class (`switchClassDown`).
 
 # COPYRIGHT
 
