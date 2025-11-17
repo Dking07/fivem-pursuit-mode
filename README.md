@@ -79,89 +79,136 @@
 
 ## CHANGELOGS
 
-### 1.1
+<details>
+  <summary><h2 style="display: inline;">Expand</h2></summary>
 
-* Added export to get current class.
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.1</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Added export to get current class.</li>
+    </ul>
+  </details>
 
-### 1.2
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.2</h3></summary>
+    <details>
+      <summary style="margin-left: 30px;"><h5 style="display: inline;">New Features</h5></summary>
+      <summary style="margin-left: 40px;"><h5 style="display: inline;"><b>Livery System Integration</b></h5></summary>
+      <ul style="margin-left: 40px;">
+        <li>Added dynamic livery changes based on vehicle class;</li>
+        <li>Vehicles now visually display their current performance class through liveries;</li>
+        <li>Added support for both standard liveries and mod-based liveries (modType 48);</li>
+        <li>Vehicle-specific livery overrides <b>available</b> in configuration.</li>
+        (Livery is just an example, you can use any modkit.)
+      </ul>
+    </details>
+    <details>
+      <summary style="margin-left: 30px;"><h5 style="display: inline;">Improvements</h5></summary>
+      <summary style="margin-left: 40px;"><h5 style="display: inline;"><b>Vehicle Name Recognition</b></h5></summary>
+      <ul style="margin-left: 40px;">
+        <li>Fixed issue where vehicles with special characters in names weren't being recognized;</li>
+        <li>Improved vehicle name handling for better compatibility with custom vehicles;</li>
+        <li>Added debug command to check vehicle names (<code>/checkvehicle</code>).</li>
+      </ul>
+    </details>
+    <details>
+      <summary style="margin-left: 30px;"><h5 style="display: inline;">Configuration Updates</h5></summary>
+      <ul style="margin-left: 30px;">
+        <li>Added <code>Config.LiveryClass</code> for class-based livery settings;</li>
+        <li>Added <code>Config.VehicleLiveryOverrides</code> for vehicle-specific livery configurations;</li>
+        <li>Added <code>Config.Pursuit.checkvehiclename</code> for debugging vehicle names.</li>
+      </ul>
+    </details>
+    <details>
+      <summary style="margin-left: 30px;"><h5 style="display: inline;">Bug Fixes</h5></summary>
+      <ul style="margin-left: 30px;">
+        <li>Fixed issue where vehicles with special characters in names weren't recognized by the system;</li>
+        <li>Fixed handling application for certain vehicle types;</li>
+        <li>Improved vehicle exit handling to properly restore original vehicle state.</li>
+      </ul>
+    </details>
+  </details>
 
-##### New Features
-- ##### **Livery System Integration**
-  - Added dynamic livery changes based on vehicle class
-  - Vehicles now visually display their current performance class through liveries
-  - Added support for both standard liveries and mod-based liveries (modType 48)
-  - Vehicle-specific livery overrides **available** in configuration
-  (Livery is just an example, you can use any modkit)
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.2.2</h3></summary>
+    <details>
+      <summary style="margin-left: 30px;"><h5 style="display: inline;">New Feature</h5></summary>
+      <summary style="margin-left: 40px;"><h5 style="display: inline;"><b>Speed ​​check</b></h5></summary>
+      <ul style="margin-left: 40px;">
+        <li>Added <code>Config.Pursuit.Speed</code> option to limit the speed at which class switching will be allowed.</li>
+      </ul>
+    </details>
+  </details>
 
-##### Improvements
-- ##### **Vehicle Name Recognition**
-  - Fixed issue where vehicles with special characters in names weren't being recognized
-  - Improved vehicle name handling for better compatibility with custom vehicles
-  - Added debug command to check vehicle names (`/checkvehicle`)
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.2.3</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Fixed errors that occurred when ox_lib was missing.</li>
+    </ul>
+  </details>
 
-##### Configuration Updates
-- Added `Config.LiveryClass` for class-based livery settings
-- Added `Config.VehicleLiveryOverrides` for vehicle-specific livery configurations
-- Added `Config.Pursuit.checkvehiclename` for debugging vehicle names
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.2.4</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Added translation system;</li>
+      <li>Reorganized command and notification configurations;</li>
+      <li>Moved Config.HandlingPresets to a separate file.</li>
+    </ul>
+  </details>
 
-##### Bug Fixes
-- Fixed issue where vehicles with special characters in names weren't recognized by the system
-- Fixed handling application for certain vehicle types
-- Improved vehicle exit handling to properly restore original vehicle state
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.2.5</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Config.Notifys moved to a separate file;</li>
+      <li>UI Improvements;</li>
+      <li>Reworked the handling application logic and added new parameters:</li>
+      <details>
+        <summary>Parameters</summary>
+        <ul>
+          <li>fMass</li>
+          <li>fDownforceModifier</li>
+          <li>fDriveBiasFront</li>
+          <li>fBrakeBiasFront</li>
+          <li>fHandBrakeForce</li>
+          <li>fCamberStiffnesss</li>
+          <li>fTractionBiasFront</li>
+          <li>fSuspensionForce</li>
+          <li>fSuspensionCompDamp</li>
+          <li>fSuspensionReboundDamp</li>
+          <li>fSuspensionUpperLimit</li>
+          <li>fSuspensionLowerLimit</li>
+          <li>fSuspensionRaise</li>
+          <li>fSuspensionBiasFront</li>
+          <li>fAntiRollBarForce</li>
+          <li>fAntiRollBarBiasFront</li>
+          <li>fRollCentreHeightFront</li>
+          <li>fRollCentreHeightRear</li>
+          <li>strHandlingFlags</li>
+          <li>fBackEndPopUpCarImpulseMult</li>
+          <li>fBackEndPopUpBuildingImpulseMult</li>
+          <li>fBackEndPopUpMaxDeltaSpeed</li>
+          <li>strAdvancedFlags</li>
+        </ul>
+      </details>
+    </ul>
+  </details>
 
-### 1.2.2
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.2.6</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Added option to show the current class of nearby vehicles (<code>Config.ViewClass</code> and <code>Config.Commands.viewClass</code>).</li>
+    </ul>
+  </details>
 
-##### New Feature
-- ##### **Speed ​​check**
-  - Added `Config.Pursuit.Speed` option to limit the speed at which class switching will be allowed.
-
-### 1.2.3
-
-  * Fixed errors that occurred when ox_lib was missing.
-
-### 1.2.4
-
-  * Added translation system;
-  * Reorganized command and notification configurations;
-  * Moved Config.HandlingPresets to a separate file.
-
-### 1.2.5
-
-  * Config.Notifys moved to a separate file;
-  * Reworked the handling application logic and added new parameters:
-    * fMass
-    * fDriveBiasFront
-    * fBrakeBiasFront
-    * fHandBrakeForce
-    * fCamberStiffnesss
-    * fTractionBiasFront
-    * fSuspensionForce
-    * fSuspensionCompDamp
-    * fSuspensionReboundDamp
-    * fSuspensionUpperLimit
-    * fSuspensionLowerLimit
-    * fSuspensionRaise
-    * fSuspensionBiasFront
-    * fAntiRollBarForce
-    * fAntiRollBarBiasFront
-    * fRollCentreHeightFront
-    * fRollCentreHeightRear
-    * strHandlingFlags
-    * fBackEndPopUpCarImpulseMult
-    * fBackEndPopUpBuildingImpulseMult
-    * fBackEndPopUpMaxDeltaSpeed
-    * strAdvancedFlags
-  * UI Improvements.
-
-### 1.2.6
-
-  * Added option to show the current class of nearby vehicles (`Config.ViewClass` and `Config.Commands.viewClass`).
-
-### 1.2.7
-
-  * Improvements in class display;
-  * Improvements in class saving by vehicle;
-  * Added the possibility to decrease the class (`switchClassDown`).
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.2.7</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Improvements in class display;</li>
+      <li>Improvements in class saving by vehicle;</li>
+      <li>Added the possibility to decrease the class (<code>switchClassDown</code>).</li>
+    </ul>
+  </details>
+</details>
 
 # COPYRIGHT
 
