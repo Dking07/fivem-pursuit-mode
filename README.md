@@ -208,6 +208,13 @@
       <li>Added the possibility to decrease the class (<code>switchClassDown</code>).</li>
     </ul>
   </details>
+
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.2.8</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li><code>Config.Pursuit.Speed.max</code> is now defined by class.</li>
+    </ul>
+  </details>
 </details>
 
 # COPYRIGHT
