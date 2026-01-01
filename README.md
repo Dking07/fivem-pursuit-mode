@@ -6,41 +6,41 @@
 
 ## DESCRIPTION
 
-### Transform your police pursuits with this sophisticated vehicle class management system. Designed for realism and performance, this script allows officers to dynamically adjust their vehicle's handling and performance characteristics on the fly.
-### Perfect for police roleplay servers looking to add depth to their pursuit mechanics. Give your officers the tools they need to adapt to any pursuit situation!
+Transform your police pursuits with this sophisticated vehicle class management system. Designed for realism and performance, this script allows officers to dynamically adjust their vehicle's handling and performance characteristics on the fly.
+Perfect for police roleplay servers looking to add depth to their pursuit mechanics. Give your officers the tools they need to adapt to any pursuit situation!
 
 ## FEATURES
 
-### 🚓 **Dynamic Class System**
+### **Dynamic Class System**
 - Multiple vehicle classes
 - Instant class switching during pursuits
 - Smooth transitions between performance levels
 - Customizable class configurations
 
-### 🛠️ **Advanced Handling Modifications**
+### **Advanced Handling Modifications**
 - Precise handling adjustments per class
 - Dynamic performance scaling
 - Customizable handling parameters
 
-### ⚙️ **Smart Tuning System**
+### **Smart Tuning System**
 - Automatic tuning adjustments per class
 - Original modifications preservation
 - Seamless transitions between states
 - Customizable tuning presets
 
-### 🎮 **User-Friendly Interface**
+### **User-Friendly Interface**
 - Clean, minimal UI design
 - Draggable position customization
 - Class status display
 - Customizable notifications
 
-### ⚡ **Performance Optimized**
+### **Performance Optimized**
 - Efficient resource usage
 - Minimal performance impact
 - Smooth class transitions
 - Stable handling modifications
 
-### 🔧 **Highly Configurable**
+### **Highly Configurable**
 - Easy-to-use configuration file
 - Customizable key bindings
 - Adjustable UI elements
@@ -219,4 +219,4 @@
 
 # COPYRIGHT
 
-## BY [DKING](https://github.com/Dking07) 2025 ©
+## BY [DKING](https://github.com/Dking07) 2026 ©
