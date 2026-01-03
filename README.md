@@ -159,7 +159,7 @@ Perfect for police roleplay servers looking to add depth to their pursuit mechan
   <details>
     <summary style="margin-left: 20px;"><h3 style="display: inline;">1.2.5</h3></summary>
     <ul style="margin-left: 20px;">
-      <li>Config.Notifys moved to a separate file;</li>
+      <li><code>Config.Notifys</code> moved to a separate file;</li>
       <li>UI Improvements;</li>
       <li>Reworked the handling application logic and added new parameters:</li>
       <details>
@@ -213,6 +213,15 @@ Perfect for police roleplay servers looking to add depth to their pursuit mechan
     <summary style="margin-left: 20px;"><h3 style="display: inline;">1.2.8</h3></summary>
     <ul style="margin-left: 20px;">
       <li><code>Config.Pursuit.Speed.max</code> is now defined by class.</li>
+    </ul>
+  </details>
+
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.2.9</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li><code>Config.Commands</code> moved to a separate file;</li>
+      <li>The UI has been completely redone and improved;</li>
+      <li>More optimizations.</li>
     </ul>
   </details>
 </details>
