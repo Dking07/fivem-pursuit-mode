@@ -224,6 +224,14 @@ Perfect for police roleplay servers looking to add depth to their pursuit mechan
       <li>More optimizations.</li>
     </ul>
   </details>
+
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.3.1</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Added a menu to choose between available classes (<code>Config.UI.menu</code> and <code>Config.Commands.openClassMenu</code>).</li>
+      <img src="https://github.com/user-attachments/assets/e4ca6f18-fc06-42d9-b43a-7509ce9130f5" alt="Class Menu">
+    </ul>
+  </details>
 </details>
 
 # COPYRIGHT
