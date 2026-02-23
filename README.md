@@ -232,6 +232,21 @@ Perfect for police roleplay servers looking to add depth to their pursuit mechan
       <img src="https://github.com/user-attachments/assets/e4ca6f18-fc06-42d9-b43a-7509ce9130f5" alt="Class Menu">
     </ul>
   </details>
+
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.3.2</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Changed the way of editing the UI, and now supports changing opacity;</li>
+      <li>View Class no longer appears between walls;</li>
+      <li>Added radar system;</li>
+      <li>Added radar log system;</li>
+      <li>Added BOLO (Be On the Look Out) system;</li>
+      <li>Added exports for the BOLO system;</li>
+      <img src="https://github.com/user-attachments/assets/8c53a744-8d93-477b-9c3f-a7a4ee740e87" alt="Radar" width="500px" >
+      <img src="https://github.com/user-attachments/assets/659b5732-5166-47db-b0db-91c3e7f54e4b" alt="Radar LOG" width="300px" >
+      <img src="https://github.com/user-attachments/assets/178510fe-be54-4849-9c06-05c3b351f31c" alt="BOLO" width="300px" >
+    </ul>
+  </details>
 </details>
 
 # COPYRIGHT
