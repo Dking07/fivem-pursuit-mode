@@ -63,7 +63,18 @@ Perfect for police roleplay servers looking to add depth to their pursuit mechan
 
 ## HOW TO USE
 
-### Definitions and configurations of classes, commands, binds, etc., all explained in the [config](https://github.com/user-attachments/assets/61d8cd55-ffbe-4c4d-9562-c5f42b4c8fdc) files.
+### Definitions and configurations of classes, commands, binds, etc., all explained in the config files.
+<details>
+  <summary><h5 style="display: inline;">Expand</h5></summary>
+  <img src="https://github.com/user-attachments/assets/eee68366-e3e2-4cd1-9d6c-fe413830c113" alt="Config" width="100%"/>
+</details>
+
+## EXPORTS
+
+<details>
+  <summary><h3 style="display: inline;">Expand</h3></summary>
+  <img src="https://github.com/user-attachments/assets/4248cd33-58c9-414a-b876-f21643a6210b" alt="Exports" width="50%"/>
+</details>
 
 ## PREVIEW
 
@@ -241,7 +252,7 @@ Perfect for police roleplay servers looking to add depth to their pursuit mechan
       <li>Added radar system;</li>
       <li>Added radar log system;</li>
       <li>Added BOLO (Be On the Look Out) system;</li>
-      <li>Added exports for the BOLO system;</li>
+      <li>Added exports for the BOLO system.</li>
       <img src="https://github.com/user-attachments/assets/8c53a744-8d93-477b-9c3f-a7a4ee740e87" alt="Radar" width="500px" >
       <img src="https://github.com/user-attachments/assets/659b5732-5166-47db-b0db-91c3e7f54e4b" alt="Radar LOG" width="300px" >
       <img src="https://github.com/user-attachments/assets/178510fe-be54-4849-9c06-05c3b351f31c" alt="BOLO" width="300px" >
