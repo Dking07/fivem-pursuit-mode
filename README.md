@@ -64,10 +64,6 @@ Perfect for police roleplay servers looking to add depth to their pursuit mechan
 ## HOW TO USE
 
 ### Definitions and configurations of classes, commands, binds, etc., all explained in the config files.
-<details>
-  <summary><h5 style="display: inline;">Expand</h5></summary>
-  <img src="https://github.com/user-attachments/assets/eee68366-e3e2-4cd1-9d6c-fe413830c113" alt="Config" width="100%"/>
-</details>
 
 ## EXPORTS
 
