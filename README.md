@@ -254,6 +254,13 @@ Perfect for police roleplay servers looking to add depth to their pursuit mechan
       <img src="https://github.com/user-attachments/assets/178510fe-be54-4849-9c06-05c3b351f31c" alt="BOLO" width="300px" >
     </ul>
   </details>
+
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.3.3</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Changed the ViewClass so that it only appears when holding down bind.</li>
+    </ul>
+  </details>
 </details>
 
 # COPYRIGHT
