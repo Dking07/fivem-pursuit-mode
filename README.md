@@ -261,6 +261,14 @@ Perfect for police roleplay servers looking to add depth to their pursuit mechan
       <li>Changed the ViewClass so that it only appears when holding down bind.</li>
     </ul>
   </details>
+
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.3.4</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Added new pursuit UI mode, which displays the class on the radar.</li>
+      <img src="https://github.com/user-attachments/assets/49031fad-c687-4d17-98aa-0bc35644e607" alt="Pursuit Class on Radar" width="500px" >
+    </ul>
+  </details>
 </details>
 
 # COPYRIGHT
