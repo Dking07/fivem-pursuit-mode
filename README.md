@@ -269,6 +269,15 @@ Perfect for police roleplay servers looking to add depth to their pursuit mechan
       <img src="https://github.com/user-attachments/assets/49031fad-c687-4d17-98aa-0bc35644e607" alt="Pursuit Class on Radar" width="500px" >
     </ul>
   </details>
+
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.3.5</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Radar improvements;</li>
+      <li>The ViewClass system has been rebuilt.</li>
+      <img src="https://github.com/user-attachments/assets/f33c992c-fcc3-402c-abdd-edb001a42e1c" alt="ViewClass" width="500px" >
+    </ul>
+  </details>
 </details>
 
 # COPYRIGHT
