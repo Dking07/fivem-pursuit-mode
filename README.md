@@ -280,6 +280,13 @@ Perfect for police roleplay servers looking to add depth to their pursuit mechan
   </details>
 </details>
 
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.3.6</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Added configs to choose which seats the UI's will appear on.</li>
+    </ul>
+  </details>
+
 # COPYRIGHT
 
 ## BY [DKING](https://github.com/Dking07) 2026 ©
