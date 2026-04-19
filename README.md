@@ -278,7 +278,6 @@ Perfect for police roleplay servers looking to add depth to their pursuit mechan
       <img src="https://github.com/user-attachments/assets/f33c992c-fcc3-402c-abdd-edb001a42e1c" alt="ViewClass" width="500px" >
     </ul>
   </details>
-</details>
 
   <details>
     <summary style="margin-left: 20px;"><h3 style="display: inline;">1.3.6</h3></summary>
@@ -286,6 +285,7 @@ Perfect for police roleplay servers looking to add depth to their pursuit mechan
       <li>Added configs to choose which seats the UI's will appear on.</li>
     </ul>
   </details>
+</details>
 
 # COPYRIGHT
 
