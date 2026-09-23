@@ -57,9 +57,10 @@ Perfect for police roleplay servers looking to add depth to their pursuit mechan
 
 ## HOW TO INSTALL
 
-* [Download](https://portal.cfx.re/assets/granted-assets) script;
-* Place it in the resources folder;
-* Add 'ensure dking_pursuitmode' (without quotes) to server.cfg.
+1. [Download](https://portal.cfx.re/assets/granted-assets) the script;
+2. Place the `dking_pursuitmode` folder in your server's `resources` directory;
+3. Ensure you have `ox_lib` installed and started;
+4. Add `ensure dking_pursuitmode` to your `server.cfg`.
 
 ## HOW TO USE
 
@@ -69,7 +70,7 @@ Perfect for police roleplay servers looking to add depth to their pursuit mechan
 
 <details>
   <summary><h3 style="display: inline;">Expand</h3></summary>
-  <img src="https://github.com/user-attachments/assets/4248cd33-58c9-414a-b876-f21643a6210b" alt="Exports" width="50%"/>
+  <img src="https://github.com/user-attachments/assets/36895d22-cc0e-4718-bdf0-a1b6a28a1b43" alt="Exports" width="50%"/>
 </details>
 
 ## PREVIEW
@@ -78,7 +79,7 @@ Perfect for police roleplay servers looking to add depth to their pursuit mechan
 
 ## DEPENDENCIES
 
-* [ox_lib](https://github.com/overextended/ox_lib) (Optional, used only for notifications)
+* [ox_lib](https://github.com/overextended/ox_lib)
 
 ## SUPPORT
 
@@ -283,6 +284,18 @@ Perfect for police roleplay servers looking to add depth to their pursuit mechan
     <summary style="margin-left: 20px;"><h3 style="display: inline;">1.3.6</h3></summary>
     <ul style="margin-left: 20px;">
       <li>Added configs to choose which seats the UI's will appear on.</li>
+    </ul>
+  </details>
+
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.3.7</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Improved server-authoritative state bag synchronization for vehicle pursuit classes with driver verification;</li>
+      <li>Improved reactive state bag listeners and physics/livery restoration upon vehicle re-entry;</li>
+      <li>Restructured exports architecture;</li>
+      <li>Decoupled radar vehicle class view with safe execution;</li>
+      <li>Hardened tuning presets lifecycle with strict type safety and automated restoration of original vehicle mods upon exit;</li>
+      <li>Improved dynamic modkit and livery resolution supporting both <code>modType</code> and <code>modKit</code> definitions.</li>
     </ul>
   </details>
 </details>
