@@ -298,6 +298,14 @@ Perfect for police roleplay servers looking to add depth to their pursuit mechan
       <li>Improved dynamic modkit and livery resolution supporting both <code>modType</code> and <code>modKit</code> definitions.</li>
     </ul>
   </details>
+
+  <details>
+    <summary style="margin-left: 20px;"><h3 style="display: inline;">1.3.8</h3></summary>
+    <ul style="margin-left: 20px;">
+      <li>Small improvements in the class change and display;</li>
+      <li>Changed the way BOLO and Radar Log toggle, they now close when the keybind is pressed again.</li>
+    </ul>
+  </details>
 </details>
 
 # COPYRIGHT
